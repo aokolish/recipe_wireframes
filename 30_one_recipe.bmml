@@ -51,9 +51,9 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::Button" x="981" y="259" w="45" h="35" measuredW="48" measuredH="30" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Button" x="1056" y="259" w="30" h="31" measuredW="40" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <icon>PlusBigIcon%7Csmall</icon>
+        <icon>PlusBigIcon%7Cxsmall</icon>
         <text/>
       </controlProperties>
     </control>
@@ -63,9 +63,9 @@
         <tooltipDirection>SE</tooltipDirection>
       </controlProperties>
     </control>
-    <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="1041" y="260" w="45" h="35" measuredW="48" measuredH="30" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="1056" y="341" w="30" h="31" measuredW="40" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
-        <icon>ShareIcon%7Csmall</icon>
+        <icon>ShareIcon%7Cxsmall</icon>
         <text/>
       </controlProperties>
     </control>
@@ -460,6 +460,12 @@
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Button" x="1056" y="298" w="30" h="31" measuredW="40" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>FullScreenIcon%7Cxsmall</icon>
+        <text/>
+      </controlProperties>
     </control>
   </controls>
 </mockup>

@@ -236,11 +236,12 @@
     </control>
     <control controlID="60" controlTypeID="com.balsamiq.mockups::StickyNote" x="1544" y="215" w="194" h="116" measuredW="109" measuredH="123" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>This%20could%20show%20up%20behind%20a%20recip%20when%20you%20hover%20on%20it%20%28see%20ebay%20or%20google%20maps%29</text>
+        <text>This%20could%20show%20up%20behind%20a%20recipe%20when%20you%20hover%20on%20it%20%28see%20ebay%20or%20google%20maps%29</text>
       </controlProperties>
     </control>
-    <control controlID="61" controlTypeID="com.balsamiq.mockups::Link" x="490" y="644" w="-1" h="-1" measuredW="76" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Link" x="490" y="644" w="-1" h="-1" measuredW="94" measuredH="24" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
+        <size>16</size>
         <text>See%20More%20%3E</text>
       </controlProperties>
     </control>

@@ -22,14 +22,45 @@
         <text>Recently%20Added</text>
       </controlProperties>
     </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::SubTitle" x="1129" y="486" w="-1" h="-1" measuredW="60" measuredH="33" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Tags</text>
-      </controlProperties>
-    </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::Title" x="498" y="414" w="-1" h="-1" measuredW="298" measuredH="50" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Title" x="498" y="414" w="-1" h="-1" measuredW="298" measuredH="50" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Top%20Contributors</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::SubTitle" x="1129" y="414" w="-1" h="-1" measuredW="144" measuredH="33" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Popular%20Tags</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::TagCloud" x="1122" y="451" w="236" h="126" measuredW="350" measuredH="250" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Appetizers%20and%20Snacks%20Bread%20Breakfast%20and%20Brunch%20Desserts%20Drinks%20Main%20Dish%20Salad%20Side%20Dish%20Dessert%20Indian%20Vietnamese%20Easy%20Quick%20Romantic%20Cookies%20Family%20Recipe</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::SubTitle" x="1129" y="289" w="-1" h="-1" measuredW="107" measuredH="33" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Following%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::SubTitle" x="1141" y="321" w="-1" h="-1" measuredW="114" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Mack%20Corl%20%284%29</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::SubTitle" x="1141" y="347" w="-1" h="-1" measuredW="139" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Hermann%20Lau%20%287%29</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::SubTitle" x="1141" y="373" w="-1" h="-1" measuredW="185" measuredH="26" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Tigers%20%26%20Strawbe...%20%281%29</text>
+        <underline>true</underline>
       </controlProperties>
     </control>
   </controls>
