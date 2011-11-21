@@ -1,0 +1,150 @@
+<mockup version="1.0" skin="sketch" measuredW="1468" measuredH="1682" mockupW="1101" mockupH="1657">
+  <controls>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Component" x="450" y="114" w="944" h="91" measuredW="944" measuredH="91" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="944" h="91"/>
+        <override controlID="0:0" x="597" y="63" w="267" h="-1"/>
+        <override controlID="0:4" x="0" y="1" w="-1" h="-1"/>
+        <override controlID="0:1" x="681" y="32" w="-1" h="-1"/>
+        <override controlID="0:5" x="870" y="61" w="72" h="30">
+          <text>Search</text>
+        </override>
+        <override controlID="0:3" x="54" y="0" w="-1" h="-1"/>
+        <override controlID="0:2" x="761" y="34" w="-1" h="-1"/>
+        <src>./assets/symbols.bmml#header</src>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Component" x="367" y="25" w="1101" h="1657" measuredW="1101" measuredH="1657" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1101" h="1657"/>
+        <override controlID="1" x="72" y="151" w="959" h="1476"/>
+        <override controlID="1:1" x="31" y="1233" w="891" h="5"/>
+        <override controlID="1:0" x="0" y="0" w="959" h="1476">
+          <selectedIndex>-1</selectedIndex>
+          <text>Home%2C%20Recipes%2C%20My%20Recipe%20Box%2C%20Import</text>
+        </override>
+        <src>./assets/symbols.bmml#page_container</src>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Title" x="549" y="279" w="-1" h="-1" measuredW="735" measuredH="50" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20best%20place%20to%20keep%20all%20of%20your%20recipes</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::SubTitle" x="487" y="576" w="-1" h="-1" measuredW="449" measuredH="41" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Simple%2C%20Fast%2C%20Free%20-%20Pick%20Three</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Paragraph" x="487" y="629" w="446" h="171" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>I%20decided%20to%20write%20Open%20Recipes%20when%20I%20got%20sick%20of%20trying%20to%20organize%20a%20pile%20of%20printouts%20of%20recipes%20that%20I%20had%20been%20collecting%20over%20the%20years.%20It%20was%20taking%20me%20too%20long%20to%20find%20what%20I%20was%20looking%20for.%20And%20often%20times%2C%20I%20wanted%20to%20find%20a%20recipe%20by%20something%20other%20than%20its%20title%3B%20I%20wished%20that%20I%20could%20search%20through%20my%20recipes.%20Once%20I%20got%20a%20smartphone%2C%20I%20thought%20it%20would%20be%20nice%20to%20be%20able%20to%20access%20my%20recipes%20on%20the%20go%20too.%20Clearly%2C%20the%20web%20was%20the%20answer.%0A%20%0AThere%20were%20other%20options%20already%20out%20there%2C%20but%20none%20of%20them%20seemed%20to%20be%20quite%20what%20I%20was%20looking%20for.%20I%20wanted%20something%20simpler%2C%20faster%2C%20and%20designed%20to%20go%20mobile.%20This%20is%20what%20I%20came%20up%20with.%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::SubTitle" x="487" y="822" w="-1" h="-1" measuredW="181" measuredH="41" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>How%20it%20works</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::SubTitle" x="487" y="874" w="-1" h="-1" measuredW="111" measuredH="33" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>1.%20Sign%20Up</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Paragraph" x="487" y="905" w="190" h="43" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Creating%20an%20account%20is%20easy%20and%20free.</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Image" x="487" y="951" w="190" h="175" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Image" x="710" y="950" w="190" h="175" measuredW="77" measuredH="79" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Image" x="933" y="950" w="190" h="175" measuredW="77" measuredH="79" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Image" x="1156" y="950" w="190" h="175" measuredW="77" measuredH="79" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::SubTitle" x="710" y="874" w="-1" h="-1" measuredW="113" measuredH="33" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>2.%20Browse</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Paragraph" x="710" y="905" w="190" h="43" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Check%20out%20what%20other%20people%20are%20cooking.</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::SubTitle" x="933" y="874" w="-1" h="-1" measuredW="90" measuredH="33" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>3.%20Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Paragraph" x="933" y="905" w="190" h="43" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Save%20recipes%20to%20your%20recipe%20box%20with%20one%20click.</text>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::SubTitle" x="1156" y="874" w="-1" h="-1" measuredW="77" measuredH="33" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>4.%20Add</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Paragraph" x="1156" y="905" w="190" h="43" measuredW="200" measuredH="140" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20your%20own%20recipes%20to%20the%20site.</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::CoverFlow" x="677" y="344" w="-1" h="-1" measuredW="493" measuredH="198" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Label" x="1132" y="722" w="169" h="45" measuredW="239" measuredH="22" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <size>14</size>
+        <state>disabled</state>
+        <text>-%20Mario%20Batali%2C%20chef%20and%20restauranteur</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Paragraph" x="1031" y="607" w="200" h="160" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <state>up</state>
+        <text>If%20you%27re%20serious%20about%20cooking%2C%20Open%20Recipes%20is%20the%20_only_%20way%20to%20keep%20track%20of%20your%20recipes.%20I%20seriously%20suggest%20you%20give%20it%20a%20try.</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Button" x="487" y="1170" w="412" h="88" measuredW="163" measuredH="29" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <italic>false</italic>
+        <size>20</size>
+        <state>up</state>
+        <text>Create%20Account</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Paragraph" x="1156" y="1203" w="190" h="91" measuredW="200" measuredH="140" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>Check%20out%20the%20%5Bsupport%20section%5D%20for%20more%20videos%20and%20documentation%20to%20better%20understand%20what%20you%20can%20do%20with%20this%20site.</text>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::SubTitle" x="1156" y="1170" w="94" h="-1" measuredW="94" measuredH="28" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Not%20Sure%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Paragraph" x="933" y="1203" w="190" h="91" measuredW="200" measuredH="140" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <text>%5BLog%20in%5D.</text>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::SubTitle" x="933" y="1170" w="190" h="-1" measuredW="150" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Returning%20User%3F</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

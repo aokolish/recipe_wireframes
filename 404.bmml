@@ -1,0 +1,26 @@
+<mockup version="1.0" skin="sketch" measuredW="1468" measuredH="1171" mockupW="1101" mockupH="1146">
+  <controls>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Component" x="450" y="114" w="948" h="88" measuredW="948" measuredH="88" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#header</src>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Component" x="367" y="25" w="1101" h="1146" measuredW="1101" measuredH="1146" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="1101" h="1146"/>
+        <override controlID="1" x="72" y="151" w="959" h="952"/>
+        <override controlID="1:1" x="31" y="690" w="891" h="5"/>
+        <override controlID="1:0" x="0" y="0" w="959" h="952">
+          <selectedIndex>-1</selectedIndex>
+          <text>Home%2C%20Recipes%2C%20My%20Recipe%20Box%2C%20Import</text>
+        </override>
+        <src>./assets/symbols.bmml#page_container</src>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Title" x="476" y="254" w="-1" h="-1" measuredW="288" measuredH="50" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Page%20Not%20Found</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
