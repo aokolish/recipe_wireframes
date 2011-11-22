@@ -1,16 +1,21 @@
 <mockup version="1.0" skin="sketch" measuredW="1468" measuredH="1682" mockupW="1101" mockupH="1657">
   <controls>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::Component" x="450" y="114" w="944" h="91" measuredW="944" measuredH="91" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Component" x="450" y="114" w="948" h="88" measuredW="948" measuredH="88" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <override controlID="0" x="0" y="0" w="944" h="91"/>
+        <override controlID="0" x="0" y="0" w="948" h="88"/>
         <override controlID="0:0" x="597" y="63" w="267" h="-1"/>
-        <override controlID="0:4" x="0" y="1" w="-1" h="-1"/>
-        <override controlID="0:1" x="681" y="32" w="-1" h="-1"/>
-        <override controlID="0:5" x="870" y="61" w="72" h="30">
+        <override controlID="0:5" x="870" y="61" w="78" h="27">
           <text>Search</text>
         </override>
         <override controlID="0:3" x="54" y="0" w="-1" h="-1"/>
-        <override controlID="0:2" x="761" y="34" w="-1" h="-1"/>
+        <override controlID="0:4" x="0" y="1" w="-1" h="-1"/>
+        <override controlID="0:1" x="683" y="32" w="10" h="10">
+          <color>16777215</color>
+          <text/>
+        </override>
+        <override controlID="0:2" x="789" y="34" w="-1" h="-1">
+          <text>Create%20account%2CLog%20in</text>
+        </override>
         <src>./assets/symbols.bmml#header</src>
       </controlProperties>
     </control>
@@ -18,11 +23,11 @@
       <controlProperties>
         <override controlID="0" x="0" y="0" w="1101" h="1657"/>
         <override controlID="1" x="72" y="151" w="959" h="1476"/>
-        <override controlID="1:1" x="31" y="1233" w="891" h="5"/>
         <override controlID="1:0" x="0" y="0" w="959" h="1476">
           <selectedIndex>-1</selectedIndex>
           <text>Home%2C%20Recipes%2C%20My%20Recipe%20Box%2C%20Import</text>
         </override>
+        <override controlID="1:1" x="31" y="1233" w="891" h="5"/>
         <src>./assets/symbols.bmml#page_container</src>
       </controlProperties>
     </control>
@@ -125,13 +130,13 @@
     <control controlID="90" controlTypeID="com.balsamiq.mockups::Paragraph" x="1156" y="1203" w="190" h="91" measuredW="200" measuredH="140" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <italic>true</italic>
-        <text>Check%20out%20the%20%5Bsupport%20section%5D%20for%20more%20videos%20and%20documentation%20to%20better%20understand%20what%20you%20can%20do%20with%20this%20site.</text>
+        <text>Check%20out%20the%20%5Bsupport%20section%5D%20for%20more%20videos%20and%20documentation%20to%20hear%20more%20about%20what%20you%20can%20do%20with%20this%20site.</text>
       </controlProperties>
     </control>
-    <control controlID="91" controlTypeID="com.balsamiq.mockups::SubTitle" x="1156" y="1170" w="94" h="-1" measuredW="94" measuredH="28" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::SubTitle" x="1156" y="1170" w="145" h="-1" measuredW="130" measuredH="28" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
-        <text>Not%20Sure%3F</text>
+        <text>Still%20Not%20Sure%3F</text>
       </controlProperties>
     </control>
     <control controlID="92" controlTypeID="com.balsamiq.mockups::Paragraph" x="933" y="1203" w="190" h="91" measuredW="200" measuredH="140" zOrder="24" locked="false" isInGroup="-1">

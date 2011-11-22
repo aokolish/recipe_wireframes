@@ -27,10 +27,10 @@
       <controlProperties>
         <override controlID="0" x="0" y="0" w="1101" h="1817"/>
         <override controlID="1" x="72" y="157" w="959" h="1625"/>
-        <override controlID="1:1" x="31" y="1356" w="891" h="5"/>
         <override controlID="1:0" x="0" y="0" w="959" h="1625">
           <text>Home%2C%20Recipes%2C%20My%20Recipe%20Box%2C%20Import</text>
         </override>
+        <override controlID="1:1" x="31" y="1356" w="891" h="5"/>
         <src>./assets/symbols.bmml#page_container</src>
       </controlProperties>
     </control>
