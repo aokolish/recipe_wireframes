@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1773" measuredH="1171" mockupW="1406" mockupH="1146">
+<mockup version="1.0" skin="sketch" measuredW="1788" measuredH="1171" mockupW="1421" mockupH="1146">
   <controls>
     <control controlID="25" controlTypeID="com.balsamiq.mockups::Component" x="450" y="114" w="948" h="88" measuredW="948" measuredH="88" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
@@ -12,10 +12,10 @@
       <controlProperties>
         <override controlID="0" x="0" y="0" w="1101" h="1146"/>
         <override controlID="1" x="72" y="151" w="959" h="952"/>
-        <override controlID="1:1" x="31" y="690" w="891" h="5"/>
         <override controlID="1:0" x="0" y="0" w="959" h="952">
           <text>Home%2C%20Recipes%2C%20My%20Recipe%20Box%2C%20Import</text>
         </override>
+        <override controlID="1:1" x="31" y="690" w="891" h="5"/>
         <src>./assets/symbols.bmml#page_container</src>
       </controlProperties>
     </control>
@@ -220,71 +220,76 @@
         <underline>true</underline>
       </controlProperties>
     </control>
-    <control controlID="60" controlTypeID="com.balsamiq.mockups::StickyNote" x="1513" y="198" w="260" h="211" measuredW="109" measuredH="123" zOrder="21" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>The%20idea%20is%20to%20differentiate%20between%20recipes%20that%20are%20in%20your%20recipe%20box%20and%20search%20suggestions%20with%20different%20icons.%20Selecting%20a%20recipe%20that%20is%20in%20your%20recipe%20box%20%28such%20as%20the%20top%20result%20here%29%20would%20take%20you%20to%20that%20page.%20Selecting%20a%20search%20suggestion%20takes%20you%20to%20the%20search%20sesults%20page.%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="61" controlTypeID="com.balsamiq.mockups::Link" x="490" y="644" w="-1" h="-1" measuredW="94" measuredH="24" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Link" x="490" y="644" w="-1" h="-1" measuredW="94" measuredH="24" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>See%20More%20%3E</text>
       </controlProperties>
     </control>
-    <control controlID="62" controlTypeID="com.balsamiq.mockups::Canvas" x="1051" y="198" w="262" h="183" measuredW="100" measuredH="70" zOrder="23" locked="false" isInGroup="-1"/>
-    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="1107" y="213" w="-1" h="-1" measuredW="123" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Canvas" x="1051" y="198" w="262" h="183" measuredW="100" measuredH="70" zOrder="22" locked="false" isInGroup="-1"/>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="1107" y="213" w="-1" h="-1" measuredW="123" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Braised%20Beef%20Brisket</text>
       </controlProperties>
     </control>
-    <control controlID="69" controlTypeID="com.balsamiq.mockups::Icon" x="1066" y="279" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Icon" x="1066" y="279" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>SearchIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="70" controlTypeID="com.balsamiq.mockups::Icon" x="1066" y="215" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Icon" x="1066" y="215" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>ListIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="1107" y="245" w="-1" h="-1" measuredW="106" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="1107" y="245" w="-1" h="-1" measuredW="106" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Beef%20Bourguignon</text>
       </controlProperties>
     </control>
-    <control controlID="72" controlTypeID="com.balsamiq.mockups::Label" x="1107" y="277" w="96" h="21" measuredW="35" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Label" x="1107" y="277" w="96" h="21" measuredW="35" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Beef</text>
       </controlProperties>
     </control>
-    <control controlID="73" controlTypeID="com.balsamiq.mockups::Label" x="1107" y="309" w="82" h="21" measuredW="70" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Label" x="1107" y="309" w="82" h="21" measuredW="70" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Beef%20Stew</text>
       </controlProperties>
     </control>
-    <control controlID="74" controlTypeID="com.balsamiq.mockups::Label" x="1107" y="341" w="82" h="21" measuredW="79" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Label" x="1107" y="341" w="82" h="21" measuredW="79" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Beef%20Brisket</text>
       </controlProperties>
     </control>
-    <control controlID="75" controlTypeID="com.balsamiq.mockups::Icon" x="1066" y="247" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Icon" x="1066" y="247" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>ListIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="76" controlTypeID="com.balsamiq.mockups::Icon" x="1066" y="311" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="33" locked="false" isInGroup="-1">
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Icon" x="1066" y="311" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>SearchIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="77" controlTypeID="com.balsamiq.mockups::Icon" x="1066" y="343" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Icon" x="1066" y="343" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>SearchIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="78" controlTypeID="com.balsamiq.mockups::Canvas" x="1051" y="198" w="262" h="49" measuredW="100" measuredH="70" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Canvas" x="1051" y="198" w="262" h="49" measuredW="100" measuredH="70" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10470904</color>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::CallOut" x="1543" y="230" w="245" h="178" measuredW="1720" measuredH="40" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20goal%20is%20to%20differentiate%20between%20recipes%20that%20are%20in%20your%20recipe%20box%20and%20search%20suggestions%20by%20using%20different%20icons.%20Selecting%20a%20recipe%20that%20is%20in%20your%20recipe%20box%20%28such%20as%20the%20top%20two%20results%20here%29%20would%20take%20you%20to%20that%20page.%20Selecting%20a%20search%20suggestion%2C%20takes%20you%20to%20the%20search%20sesults%20page.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Arrow" x="1318" y="237" w="219" h="42" measuredW="150" measuredH="100" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
       </controlProperties>
     </control>
   </controls>

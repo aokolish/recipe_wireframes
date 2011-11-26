@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="2022" measuredH="1171" mockupW="1655" mockupH="1146">
+<mockup version="1.0" skin="sketch" measuredW="1468" measuredH="1171" mockupW="1101" mockupH="1146">
   <controls>
     <control controlID="25" controlTypeID="com.balsamiq.mockups::Component" x="450" y="114" w="948" h="88" measuredW="948" measuredH="88" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
@@ -9,10 +9,10 @@
       <controlProperties>
         <override controlID="0" x="0" y="0" w="1101" h="1146"/>
         <override controlID="1" x="72" y="151" w="959" h="952"/>
-        <override controlID="1:1" x="31" y="690" w="891" h="5"/>
         <override controlID="1:0" x="0" y="0" w="959" h="952">
           <text>Home%2C%20Recipes%2C%20My%20Recipe%20Box%2C%20Import</text>
         </override>
+        <override controlID="1:1" x="31" y="690" w="891" h="5"/>
         <src>./assets/symbols.bmml#page_container</src>
       </controlProperties>
     </control>
@@ -217,9 +217,10 @@
         <underline>true</underline>
       </controlProperties>
     </control>
-    <control controlID="59" controlTypeID="__group__" x="1489" y="347" w="533" h="98" measuredW="533" measuredH="98" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="59" controlTypeID="__group__" x="470" y="304" w="533" h="98" measuredW="533" measuredH="98" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>recipe%20hover</controlName>
+        <markup>true</markup>
       </controlProperties>
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="533" h="98" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="59">
@@ -234,15 +235,23 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="60" controlTypeID="com.balsamiq.mockups::StickyNote" x="1544" y="215" w="194" h="116" measuredW="109" measuredH="123" zOrder="22" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>This%20could%20show%20up%20behind%20a%20recipe%20when%20you%20hover%20on%20it%20%28see%20ebay%20or%20google%20maps%29</text>
-      </controlProperties>
-    </control>
-    <control controlID="61" controlTypeID="com.balsamiq.mockups::Link" x="490" y="644" w="-1" h="-1" measuredW="94" measuredH="24" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Link" x="490" y="644" w="-1" h="-1" measuredW="94" measuredH="24" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>See%20More%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Arrow" x="1003" y="225" w="521" h="100" measuredW="150" measuredH="100" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::SubTitle" x="1539" y="210" w="-1" h="-1" measuredW="137" measuredH="33" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <markup>true</markup>
+        <text>Hover%20State</text>
       </controlProperties>
     </control>
   </controls>

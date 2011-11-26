@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1726" measuredH="876" mockupW="1366" mockupH="855">
+<mockup version="1.0" skin="sketch" measuredW="1687" measuredH="876" mockupW="1327" mockupH="855">
   <controls>
     <control controlID="25" controlTypeID="com.balsamiq.mockups::Component" x="450" y="114" w="948" h="88" measuredW="948" measuredH="88" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
@@ -11,11 +11,11 @@
           <text>A%20Web%20Page%0Ahttp%3A//www.openrecipes.com</text>
         </override>
         <override controlID="1" x="72" y="151" w="959" h="631"/>
-        <override controlID="1:1" x="33" y="401" w="891" h="5"/>
         <override controlID="1:0" x="0" y="0" w="959" h="631">
           <selectedIndex>3</selectedIndex>
           <text>Home%2C%20Recipes%2C%20My%20Recipe%20Box%2C%20Import</text>
         </override>
+        <override controlID="1:1" x="33" y="401" w="891" h="5"/>
         <src>./assets/symbols.bmml#page_container</src>
       </controlProperties>
     </control>
@@ -66,7 +66,7 @@
     </control>
     <control controlID="44" controlTypeID="com.balsamiq.mockups::ModalScreen" x="360" y="93" w="1095" h="755" measuredW="320" measuredH="240" zOrder="11" locked="false" isInGroup="-1"/>
     <control controlID="45" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="603" y="255" w="641" h="429" measuredW="300" measuredH="200" zOrder="12" locked="false" isInGroup="-1"/>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::StickyNote" x="1489" y="255" w="237" h="92" measuredW="109" measuredH="123" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::CallOut" x="1502" y="410" w="185" h="76" measuredW="336" measuredH="39" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>A%20short%20video%20explaining%20how%20importing%20recipes%20works...</text>
       </controlProperties>

@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1891" measuredH="1842" mockupW="1524" mockupH="1817">
+<mockup version="1.0" skin="sketch" measuredW="1805" measuredH="1842" mockupW="1438" mockupH="1817">
   <controls>
     <control controlID="7" controlTypeID="com.balsamiq.mockups::SubTitle" x="498" y="259" w="-1" h="-1" measuredW="398" measuredH="37" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
@@ -6,13 +6,13 @@
         <text>Chorizo%20Bites%20with%20Arugula%20Pesto</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Paragraph" x="498" y="486" w="588" h="282" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Paragraph" x="854" y="306" w="503" h="253" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
-        <text>To%20make%20the%20pesto%3A%20Add%20the%20arugula%2C%20garlic%2C%20cheese%2C%20and%20walnuts%20to%20the%20bowl%20of%20a%20food%20processor%20or%20blender%2C%20and%20puree.%20As%20the%20processer%20is%20running%2C%20drizzle%20in%20the%20olive%20oil.%20This%20will%20be%20used%20to%20garnish%20the%20Chorizo.%20Season%20the%20mixture%20with%20salt%2C%20and%20pepper%2C%20to%20taste.%20If%20the%20pesto%20is%20too%20thick%2C%20you%20can%20thin%20it%20out%20with%20water.%0A%20%0ATo%20make%20the%20sausage%3A%20Cut%20the%20sausage%20link%20into%20large%201%201/2-inch%20chunks.%20Heat%20the%20oil%20in%20a%20saute%20pan%2C%20and%20saute%20the%20sausage%20until%20the%20edges%20start%20to%20brown%2C%20about%203%20to%204%20minutes.%20Toss%20the%20pieces%20while%20they%20fry%20so%20they%20cook%20all%20over.%0A%20%0AAdd%20a%20dash%20of%20sherry%20vinegar%20to%20the%20pan%20to%20deglaze%20and%20release%20all%20the%20flavors.%20Transfer%20the%20sausage%20to%20a%20platter%20and%20serve%20with%20dollops%20of%20the%20arugula%20pesto.%20Add%20little%20cocktail%20sticks%20or%20toothpicks%20to%20each%20piece%20for%20easy%20eating.</text>
+        <text>To%20make%20the%20pesto%3A%20Add%20the%20arugula%2C%20garlic%2C%20%0Acheese%2C%20and%20walnuts%20to%20the%20bowl%20of%20a%20food%20%0Aprocessor%20or%20blender%2C%20and%20puree.%20As%20the%20%0Aprocesser%20is%20running%2C%20drizzle%20in%20the%20olive%20oil.%20This%20%0Awill%20be%20used%20to%20garnish%20the%20Chorizo.%20Season%20the%20%0Amixture%20with%20salt%2C%20and%20pepper%2C%20to%20taste.%20If%20the%20%0Apesto%20is%20too%20thick%2C%20you%20can%20thin%20it%20out%20with%20water.%0A%20%0ATo%20make%20the%20sausage%3A%20Cut%20the%20sausage%20link%20%0Ainto%20large%201%201/2-inch%20chunks.%20Heat%20the%20oil%20in%20a%20saute%20pan%2C%20and%20saute%20the%20sausage%20until%20the%20edges%20start%20to%20brown%2C%20about%203%20to%204%20minutes.%20Toss%20the%20pieces%20while%20they%20fry%20so%20they%20cook%20all%20over.%0A%20%0AAdd%20a%20dash%20of%20sherry%20vinegar%20to%20the%20pan%20to%20deglaze%20and%20release%20all%20the%20flavors.%20Transfer%20the%20sausage%20to%20a%20platter%20and%20serve%20with%20dollops%20of%20the%20arugula%20pesto.%20Add%20little%20cocktail%20sticks%20or%20toothpicks%20to%20each%20piece%20for%20easy%20eating.</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="498" y="300" w="525" h="186" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="498" y="310" w="295" h="186" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>2%20big%20packed%20handfuls%20arugula%20leaves%0A1%20clove%20garlic%0A1/2%20cup%20grated%20Romano%20or%20Parmesan%20cheese%0A1/2%20cup%20walnuts%2C%20coarsely%20chopped%0A1/2%20cup%20olive%20oil%0ASalt%20and%20freshly%20ground%20black%20pepper%0AWater%2C%20as%20needed%0A1%20%288-inch%29%20link%20chorizo%20sausage%2C%20cut%20into%201%201/2-inch%20chunks%0ADash%20oil%2C%20for%20sauteing%0ADash%20sherry%20vinegar</text>
@@ -34,25 +34,9 @@
         <src>./assets/symbols.bmml#page_container</src>
       </controlProperties>
     </control>
-    <control controlID="33" controlTypeID="__group__" x="1116" y="259" w="232" h="527" measuredW="232" measuredH="527" zOrder="4" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="232" h="527" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="33"/>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="16" y="17" w="200" h="148" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="33">
-          <controlProperties>
-            <borderStyle>none</borderStyle>
-            <filter>true</filter>
-            <text/>
-          </controlProperties>
-        </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="16" y="180" w="200" h="296" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="33">
-          <controlProperties>
-            <text>*Author%3A*%0ARecipe%20courtesy%20Chuck%20Hughes%0A%20%0A*Total%20time%3A*%0A15%20mins%0A%20%0A*Yield%3A*%0A5%20servings%0A%20%0A*Source%3A*%0A%5Bhttp%3A//www.cookingchanneltv.com...%5D%0A%20%0A*Tags%3A*%0A%5Bappetizers%5D%20%5Bstarters%5D%20%5Btapas%5D%0A%20%0A*My%20Notes%3A*%0Apretty%20easy%20but%20if%20I%20made%20it%20again%2C%20I%20would%20skip%20the%20garlic</text>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::Button" x="1056" y="259" w="30" h="31" measuredW="40" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Button" x="1252" y="261" w="31" h="31" measuredW="40" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>15658734</color>
         <icon>PlusBigIcon%7Cxsmall</icon>
         <text/>
       </controlProperties>
@@ -64,8 +48,9 @@
         <tooltipDirection>SE</tooltipDirection>
       </controlProperties>
     </control>
-    <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="1056" y="341" w="30" h="31" measuredW="40" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="1326" y="261" w="31" h="31" measuredW="40" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>15658734</color>
         <icon>ShareIcon%7Cxsmall</icon>
         <text/>
       </controlProperties>
@@ -97,7 +82,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="54" controlTypeID="__group__" x="1135" y="744" w="148" h="24" measuredW="148" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="54" controlTypeID="__group__" x="1657" y="845" w="148" h="24" measuredW="148" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="8" controlTypeID="__group__" x="0" y="0" w="148" h="24" measuredW="148" measuredH="24" zOrder="0" locked="false" isInGroup="54">
           <groupChildrenDescriptors>
@@ -454,8 +439,9 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="92" controlTypeID="com.balsamiq.mockups::Button" x="1056" y="298" w="30" h="31" measuredW="40" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Button" x="1289" y="261" w="31" h="31" measuredW="40" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>15658734</color>
         <icon>FullScreenIcon%7Cxsmall</icon>
         <text/>
       </controlProperties>
@@ -475,17 +461,17 @@
         <leftArrow>false</leftArrow>
       </controlProperties>
     </control>
-    <control controlID="105" controlTypeID="com.balsamiq.mockups::CallOut" x="1005" y="257" w="-1" h="-1" measuredW="36" measuredH="40" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::CallOut" x="1005" y="257" w="-1" h="-1" measuredW="36" measuredH="39" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
     </control>
-    <control controlID="106" controlTypeID="com.balsamiq.mockups::CallOut" x="1561" y="111" w="-1" h="-1" measuredW="36" measuredH="43" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::CallOut" x="1561" y="111" w="-1" h="-1" measuredW="36" measuredH="39" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
     </control>
-    <control controlID="121" controlTypeID="com.balsamiq.mockups::CallOut" x="1625" y="768" w="207" h="121" measuredW="891" measuredH="40" zOrder="28" locked="false" isInGroup="-1">
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::CallOut" x="1625" y="768" w="207" h="121" measuredW="891" measuredH="39" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <text>When%20you%20hover%20on%20these%20stars%2C%20this%20link%20appears%20over%20top%20of%20them.%20Clicking%20it%20causes%20the%20review%20form%20to%20appear%20and%20focus%20to%20enter%20the%20form%27s%20first%20input.</text>
       </controlProperties>
@@ -495,10 +481,59 @@
         <text>What%20happens%20with%20this%20%22add%22%20button%20when%20the%20recipe%20is%20already%20in%20the%20user%27s%20recipe%20box%3F%20Should%20it%20be%20visible%3F%20Should%20it%20be%20disabled%3F%20How%20can%20I%20indicate%20to%20the%20user%20that%20this%20recipe%20is%20already%20in%20their%20recipe%20box%3F</text>
       </controlProperties>
     </control>
-    <control controlID="123" controlTypeID="com.balsamiq.mockups::CallOut" x="1641" y="341" w="93" h="43" measuredW="75" measuredH="40" zOrder="30" locked="false" isInGroup="-1">
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::CallOut" x="1641" y="341" w="93" h="43" measuredW="75" measuredH="37" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Tooltips</text>
       </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::VRule" x="813" y="306" w="-1" h="344" measuredW="5" measuredH="100" zOrder="31" locked="false" isInGroup="-1"/>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Image" x="1155" y="306" w="200" h="148" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <filter>true</filter>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::HRule" x="498" y="496" w="291" h="-1" measuredW="100" measuredH="5" zOrder="32" locked="false" isInGroup="-1"/>
+    <control controlID="138" controlTypeID="__group__" x="498" y="510" w="200" h="255" measuredW="200" measuredH="255" zOrder="33" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="0" w="200" h="42" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="138">
+          <controlProperties>
+            <color>0</color>
+            <text>*Author%3A*%0ARecipe%20courtesy%20Chuck%20Hughes</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="44" w="200" h="37" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="138">
+          <controlProperties>
+            <color>0</color>
+            <text>*Total%20time%3A*%0A15%20mins</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="83" w="200" h="37" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="138">
+          <controlProperties>
+            <color>0</color>
+            <text>*Yield%3A*%0A5%20servings</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="160" w="200" h="38" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="138">
+          <controlProperties>
+            <color>0</color>
+            <text>*Source%3A*%0A%5Bhttp%3A//www.cookingchanneltv.com...%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="122" w="200" h="36" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="138">
+          <controlProperties>
+            <color>0</color>
+            <text>*Tags%3A*%0A%5Bappetizers%5D%20%5Bstarters%5D%20%5Btapas%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="200" w="200" h="55" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="138">
+          <controlProperties>
+            <color>0</color>
+            <text>*My%20Notes%3A*%0Apretty%20easy%20but%20if%20I%20made%20it%20again%2C%20I%20would%20skip%20the%20garlic</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
     </control>
   </controls>
 </mockup>

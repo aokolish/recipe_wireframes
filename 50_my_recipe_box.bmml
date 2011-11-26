@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="2055" measuredH="1171" mockupW="1688" mockupH="1146">
+<mockup version="1.0" skin="sketch" measuredW="1816" measuredH="1171" mockupW="1449" mockupH="1146">
   <controls>
     <control controlID="25" controlTypeID="com.balsamiq.mockups::Component" x="450" y="114" w="948" h="88" measuredW="948" measuredH="88" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
@@ -9,11 +9,11 @@
       <controlProperties>
         <override controlID="0" x="0" y="0" w="1101" h="1146"/>
         <override controlID="1" x="72" y="151" w="959" h="952"/>
-        <override controlID="1:1" x="31" y="690" w="891" h="5"/>
         <override controlID="1:0" x="0" y="0" w="959" h="952">
           <selectedIndex>2</selectedIndex>
           <text>Home%2C%20Recipes%2C%20My%20Recipe%20Box%2C%20Import</text>
         </override>
+        <override controlID="1:1" x="31" y="690" w="891" h="5"/>
         <src>./assets/symbols.bmml#page_container</src>
       </controlProperties>
     </control>
@@ -228,12 +228,10 @@
         <borderStyle>roundedSolid</borderStyle>
       </controlProperties>
     </control>
-    <control controlID="59" controlTypeID="com.balsamiq.mockups::StickyNote" x="1515" y="214" w="194" h="116" measuredW="109" measuredH="123" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="61" controlTypeID="__group__" x="475" y="526" w="533" h="98" measuredW="533" measuredH="98" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Shows%20up%20behind%20a%20recipe%20when%20you%20hover%20on%20it%20%28see%20ebay%20or%20google%20maps%29</text>
+        <markup>true</markup>
       </controlProperties>
-    </control>
-    <control controlID="61" controlTypeID="__group__" x="1522" y="347" w="533" h="98" measuredW="533" measuredH="98" zOrder="10" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="__group__" x="0" y="0" w="533" h="98" measuredW="533" measuredH="98" zOrder="0" locked="false" isInGroup="61">
           <controlProperties>
@@ -259,9 +257,37 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="62" controlTypeID="com.balsamiq.mockups::Tooltip" x="1522" y="503" w="165" h="79" measuredW="163" measuredH="79" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Tooltip" x="1598" y="857" w="165" h="79" measuredW="163" measuredH="79" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
+        <markup>true</markup>
         <text>Remove%20this%20from%20your%20recipe%20box</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::CallOut" x="1547" y="613" w="170" h="69" measuredW="281" measuredH="43" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Recipe%20hover%20state%20%28delete%20button%20appears%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Arrow" x="1016" y="577" w="524" h="71" measuredW="150" measuredH="100" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::CallOut" x="920" y="624" w="40" h="41" measuredW="36" measuredH="39" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::CallOut" x="1540" y="801" w="40" h="41" measuredW="36" measuredH="40" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::SubTitle" x="1598" y="804" w="-1" h="-1" measuredW="218" measuredH="33" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <markup>true</markup>
+        <text>Delete%20button%20tooltip</text>
       </controlProperties>
     </control>
   </controls>

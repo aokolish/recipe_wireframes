@@ -1,21 +1,21 @@
-<mockup version="1.0" skin="sketch" measuredW="1782" measuredH="1682" mockupW="1415" mockupH="1657">
+<mockup version="1.0" skin="sketch" measuredW="1737" measuredH="1682" mockupW="1370" mockupH="1657">
   <controls>
     <control controlID="25" controlTypeID="com.balsamiq.mockups::Component" x="450" y="114" w="948" h="88" measuredW="948" measuredH="88" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="0" w="948" h="88"/>
+        <override controlID="0:3" x="54" y="0" w="-1" h="-1"/>
+        <override controlID="0:4" x="0" y="1" w="-1" h="-1"/>
         <override controlID="0:1" x="683" y="32" w="10" h="10">
           <color>16777215</color>
           <text/>
+        </override>
+        <override controlID="0:5" x="870" y="61" w="78" h="27">
+          <text>Search</text>
         </override>
         <override controlID="0:2" x="789" y="34" w="-1" h="-1">
           <text>Create%20account%2CLog%20in</text>
         </override>
         <override controlID="0:0" x="597" y="63" w="267" h="-1"/>
-        <override controlID="0:4" x="0" y="1" w="-1" h="-1"/>
-        <override controlID="0:3" x="54" y="0" w="-1" h="-1"/>
-        <override controlID="0:5" x="870" y="61" w="78" h="27">
-          <text>Search</text>
-        </override>
         <src>./assets/symbols.bmml#header</src>
       </controlProperties>
     </control>
@@ -151,9 +151,14 @@
         <text>Returning%20User%3F</text>
       </controlProperties>
     </control>
-    <control controlID="95" controlTypeID="com.balsamiq.mockups::StickyNote" x="1529" y="432" w="253" h="145" measuredW="109" measuredH="123" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::CallOut" x="1527" y="418" w="210" h="90" measuredW="803" measuredH="39" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Jason%20G.%20-%20thinks%20the%20coverflow%20should%20shift%20to%20the%20left.%20and%20bring%20the%20quote%20and%20create%20account%20button%20to%20its%20right.</text>
+        <text>Jason%20G.%20-%20thinks%20the%20coverflow%20should%20shift%20to%20the%20left.%20and%20bring%20the%20quote%20and%20create%20account%20button%20up%20and%20to%20the%20right%20of%20the%20coverflow.</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Arrow" x="1196" y="422" w="323" h="42" measuredW="150" measuredH="100" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
       </controlProperties>
     </control>
   </controls>
