@@ -11,15 +11,19 @@
           <text>A%20Web%20Page%0Ahttp%3A//www.openrecipes.com</text>
         </override>
         <override controlID="1" x="72" y="151" w="959" h="631"/>
-        <override controlID="1:1" x="33" y="401" w="891" h="5"/>
         <override controlID="1:0" x="0" y="0" w="959" h="631">
           <selectedIndex>3</selectedIndex>
           <text>Home%2C%20Recipes%2C%20My%20Recipe%20Box%2C%20Import</text>
         </override>
+        <override controlID="1:1" x="33" y="401" w="891" h="5"/>
         <src>./assets/symbols.bmml#page_container</src>
       </controlProperties>
     </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::VRule" x="970" y="265" w="-1" h="215" measuredW="5" measuredH="100" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::VRule" x="970" y="265" w="-1" h="215" measuredW="5" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
     <control controlID="34" controlTypeID="com.balsamiq.mockups::Title" x="473" y="241" w="232" h="-1" measuredW="207" measuredH="37" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>

@@ -84,7 +84,11 @@
                 <text>Home%2C%20Recipes%2C%20My%20Recipe%20Box%2C%20Import</text>
               </controlProperties>
             </control>
-            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="31" y="702" w="891" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="1"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="31" y="702" w="891" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <color>6710886</color>
+              </controlProperties>
+            </control>
           </groupChildrenDescriptors>
         </control>
       </groupChildrenDescriptors>
