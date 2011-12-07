@@ -9,10 +9,10 @@
       <controlProperties>
         <override controlID="0" x="0" y="0" w="1101" h="1146"/>
         <override controlID="1" x="72" y="151" w="959" h="952"/>
+        <override controlID="1:1" x="31" y="690" w="891" h="5"/>
         <override controlID="1:0" x="0" y="0" w="959" h="952">
           <text>Home%2C%20Recipes%2C%20My%20Recipe%20Box%2C%20Import</text>
         </override>
-        <override controlID="1:1" x="31" y="690" w="891" h="5"/>
         <src>./assets/symbols.bmml#page_container</src>
       </controlProperties>
     </control>
@@ -64,17 +64,7 @@
         <text>David%20Lobovitz-%201%20week%20ago</text>
       </controlProperties>
     </control>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::SubTitle" x="1129" y="414" w="-1" h="-1" measuredW="144" measuredH="33" zOrder="13" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Popular%20Tags</text>
-      </controlProperties>
-    </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::TagCloud" x="1122" y="451" w="236" h="126" measuredW="350" measuredH="250" zOrder="14" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Appetizers%20and%20Snacks%20Bread%20Breakfast%20and%20Brunch%20Desserts%20Drinks%20Main%20Dish%20Salad%20Side%20Dish%20Dessert%20Indian%20Vietnamese%20Easy%20Quick%20Romantic%20Cookies%20Family%20Recipe</text>
-      </controlProperties>
-    </control>
-    <control controlID="50" controlTypeID="__group__" x="750" y="361" w="105" h="16" measuredW="105" measuredH="16" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="__group__" x="750" y="361" w="105" h="16" measuredW="105" measuredH="16" zOrder="13" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="8" controlTypeID="__group__" x="0" y="0" w="105" h="16" measuredW="105" measuredH="16" zOrder="0" locked="false" isInGroup="50">
           <groupChildrenDescriptors>
@@ -113,7 +103,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="51" controlTypeID="__group__" x="761" y="473" w="105" h="16" measuredW="105" measuredH="16" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="51" controlTypeID="__group__" x="761" y="473" w="105" h="16" measuredW="105" measuredH="16" zOrder="14" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="8" controlTypeID="__group__" x="0" y="0" w="105" h="16" measuredW="105" measuredH="16" zOrder="0" locked="false" isInGroup="51">
           <groupChildrenDescriptors>
@@ -152,7 +142,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="52" controlTypeID="__group__" x="795" y="585" w="105" h="16" measuredW="105" measuredH="16" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="52" controlTypeID="__group__" x="795" y="585" w="105" h="16" measuredW="105" measuredH="16" zOrder="15" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="8" controlTypeID="__group__" x="0" y="0" w="105" h="16" measuredW="105" measuredH="16" zOrder="0" locked="false" isInGroup="52">
           <groupChildrenDescriptors>
@@ -191,32 +181,6 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="53" controlTypeID="com.balsamiq.mockups::SubTitle" x="1129" y="289" w="-1" h="-1" measuredW="107" measuredH="33" zOrder="18" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Following%3A</text>
-      </controlProperties>
-    </control>
-    <control controlID="54" controlTypeID="com.balsamiq.mockups::SubTitle" x="1141" y="321" w="-1" h="-1" measuredW="114" measuredH="26" zOrder="19" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>18</size>
-        <text>Mack%20Corl%20%284%29</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
-    <control controlID="55" controlTypeID="com.balsamiq.mockups::SubTitle" x="1141" y="347" w="-1" h="-1" measuredW="139" measuredH="26" zOrder="20" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>18</size>
-        <text>Hermann%20Lau%20%287%29</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
-    <control controlID="56" controlTypeID="com.balsamiq.mockups::SubTitle" x="1141" y="373" w="-1" h="-1" measuredW="185" measuredH="26" zOrder="21" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>18</size>
-        <text>Tigers%20%26%20Strawbe...%20%281%29</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
     <control controlID="59" controlTypeID="__group__" x="470" y="304" w="533" h="98" measuredW="533" measuredH="98" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>recipe%20hover</controlName>
@@ -235,23 +199,28 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="61" controlTypeID="com.balsamiq.mockups::Link" x="490" y="644" w="-1" h="-1" measuredW="94" measuredH="24" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Link" x="490" y="644" w="-1" h="-1" measuredW="94" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>See%20More%20%3E</text>
       </controlProperties>
     </control>
-    <control controlID="62" controlTypeID="com.balsamiq.mockups::Arrow" x="1003" y="251" w="91" h="74" measuredW="150" measuredH="100" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Arrow" x="1003" y="251" w="91" h="74" measuredW="150" measuredH="100" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>bottom</direction>
         <leftArrow>false</leftArrow>
       </controlProperties>
     </control>
-    <control controlID="64" controlTypeID="com.balsamiq.mockups::SubTitle" x="1099" y="239" w="-1" h="-1" measuredW="152" measuredH="33" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::SubTitle" x="1099" y="239" w="-1" h="-1" measuredW="152" measuredH="33" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <markup>true</markup>
         <text>%28Hover%20State%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Component" x="1122" y="289" w="236" h="288" measuredW="236" measuredH="288" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#sidebar</src>
       </controlProperties>
     </control>
   </controls>

@@ -12,10 +12,10 @@
       <controlProperties>
         <override controlID="0" x="0" y="0" w="1101" h="1146"/>
         <override controlID="1" x="72" y="151" w="959" h="952"/>
+        <override controlID="1:1" x="31" y="690" w="891" h="5"/>
         <override controlID="1:0" x="0" y="0" w="959" h="952">
           <text>Home%2C%20Recipes%2C%20My%20Recipe%20Box%2C%20Import</text>
         </override>
-        <override controlID="1:1" x="31" y="690" w="891" h="5"/>
         <src>./assets/symbols.bmml#page_container</src>
       </controlProperties>
     </control>
@@ -67,17 +67,7 @@
         <text>David%20Lobovitz-%201%20week%20ago</text>
       </controlProperties>
     </control>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::SubTitle" x="1129" y="414" w="-1" h="-1" measuredW="144" measuredH="33" zOrder="12" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Popular%20Tags</text>
-      </controlProperties>
-    </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::TagCloud" x="1122" y="451" w="236" h="126" measuredW="350" measuredH="250" zOrder="13" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Appetizers%20and%20Snacks%20Bread%20Breakfast%20and%20Brunch%20Desserts%20Drinks%20Main%20Dish%20Salad%20Side%20Dish%20Dessert%20Indian%20Vietnamese%20Easy%20Quick%20Romantic%20Cookies%20Family%20Recipe</text>
-      </controlProperties>
-    </control>
-    <control controlID="50" controlTypeID="__group__" x="750" y="361" w="105" h="16" measuredW="105" measuredH="16" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="__group__" x="750" y="361" w="105" h="16" measuredW="105" measuredH="16" zOrder="12" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="8" controlTypeID="__group__" x="0" y="0" w="105" h="16" measuredW="105" measuredH="16" zOrder="0" locked="false" isInGroup="50">
           <groupChildrenDescriptors>
@@ -116,7 +106,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="51" controlTypeID="__group__" x="761" y="473" w="105" h="16" measuredW="105" measuredH="16" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="51" controlTypeID="__group__" x="761" y="473" w="105" h="16" measuredW="105" measuredH="16" zOrder="13" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="8" controlTypeID="__group__" x="0" y="0" w="105" h="16" measuredW="105" measuredH="16" zOrder="0" locked="false" isInGroup="51">
           <groupChildrenDescriptors>
@@ -155,7 +145,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="52" controlTypeID="__group__" x="795" y="585" w="105" h="16" measuredW="105" measuredH="16" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="52" controlTypeID="__group__" x="795" y="585" w="105" h="16" measuredW="105" measuredH="16" zOrder="14" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="8" controlTypeID="__group__" x="0" y="0" w="105" h="16" measuredW="105" measuredH="16" zOrder="0" locked="false" isInGroup="52">
           <groupChildrenDescriptors>
@@ -194,102 +184,90 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="53" controlTypeID="com.balsamiq.mockups::SubTitle" x="1129" y="285" w="-1" h="-1" measuredW="107" measuredH="33" zOrder="17" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Following%3A</text>
-      </controlProperties>
-    </control>
-    <control controlID="54" controlTypeID="com.balsamiq.mockups::SubTitle" x="1141" y="317" w="-1" h="-1" measuredW="114" measuredH="26" zOrder="18" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>18</size>
-        <text>Mack%20Corl%20%284%29</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
-    <control controlID="55" controlTypeID="com.balsamiq.mockups::SubTitle" x="1141" y="347" w="-1" h="-1" measuredW="139" measuredH="26" zOrder="19" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>18</size>
-        <text>Hermann%20Lau%20%287%29</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
-    <control controlID="56" controlTypeID="com.balsamiq.mockups::SubTitle" x="1141" y="373" w="-1" h="-1" measuredW="185" measuredH="26" zOrder="20" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>18</size>
-        <text>Tigers%20%26%20Strawbe...%20%281%29</text>
-        <underline>true</underline>
-      </controlProperties>
-    </control>
-    <control controlID="61" controlTypeID="com.balsamiq.mockups::Link" x="490" y="644" w="-1" h="-1" measuredW="94" measuredH="24" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Link" x="490" y="644" w="-1" h="-1" measuredW="94" measuredH="24" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>See%20More%20%3E</text>
       </controlProperties>
     </control>
-    <control controlID="62" controlTypeID="com.balsamiq.mockups::Canvas" x="1051" y="198" w="262" h="183" measuredW="100" measuredH="70" zOrder="22" locked="false" isInGroup="-1"/>
-    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="1107" y="213" w="-1" h="-1" measuredW="123" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Braised%20Beef%20Brisket</text>
-      </controlProperties>
-    </control>
-    <control controlID="69" controlTypeID="com.balsamiq.mockups::Icon" x="1066" y="279" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="25" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>SearchIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="70" controlTypeID="com.balsamiq.mockups::Icon" x="1066" y="215" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="26" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>ListIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="1107" y="245" w="-1" h="-1" measuredW="106" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Beef%20Bourguignon</text>
-      </controlProperties>
-    </control>
-    <control controlID="72" controlTypeID="com.balsamiq.mockups::Label" x="1107" y="277" w="96" h="21" measuredW="35" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Beef</text>
-      </controlProperties>
-    </control>
-    <control controlID="73" controlTypeID="com.balsamiq.mockups::Label" x="1107" y="309" w="82" h="21" measuredW="70" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Beef%20Stew</text>
-      </controlProperties>
-    </control>
-    <control controlID="74" controlTypeID="com.balsamiq.mockups::Label" x="1107" y="341" w="82" h="21" measuredW="79" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Beef%20Brisket</text>
-      </controlProperties>
-    </control>
-    <control controlID="75" controlTypeID="com.balsamiq.mockups::Icon" x="1066" y="247" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="31" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>ListIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="76" controlTypeID="com.balsamiq.mockups::Icon" x="1066" y="311" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="32" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>SearchIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="77" controlTypeID="com.balsamiq.mockups::Icon" x="1066" y="343" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="33" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>SearchIcon%7Cxsmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="78" controlTypeID="com.balsamiq.mockups::Canvas" x="1051" y="198" w="262" h="49" measuredW="100" measuredH="70" zOrder="23" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>10470904</color>
-      </controlProperties>
-    </control>
-    <control controlID="79" controlTypeID="com.balsamiq.mockups::CallOut" x="1543" y="230" w="245" h="178" measuredW="1720" measuredH="40" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::CallOut" x="1543" y="230" w="245" h="178" measuredW="1719" measuredH="43" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <text>The%20goal%20is%20to%20differentiate%20between%20recipes%20that%20are%20in%20your%20recipe%20box%20and%20search%20suggestions%20by%20using%20different%20icons.%20Selecting%20a%20recipe%20that%20is%20in%20your%20recipe%20box%20%28such%20as%20the%20top%20two%20results%20here%29%20would%20take%20you%20to%20that%20page.%20Selecting%20a%20search%20suggestion%2C%20takes%20you%20to%20the%20search%20sesults%20page.%20</text>
       </controlProperties>
     </control>
-    <control controlID="80" controlTypeID="com.balsamiq.mockups::Arrow" x="1318" y="237" w="219" h="42" measuredW="150" measuredH="100" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Arrow" x="1318" y="237" w="219" h="42" measuredW="150" measuredH="100" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <leftArrow>false</leftArrow>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="__group__" x="1051" y="198" w="262" h="183" measuredW="262" measuredH="183" zOrder="19" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="78" y="87" w="-1" h="-1" measuredW="107" measuredH="33" zOrder="0" locked="false" isInGroup="82">
+          <controlProperties>
+            <text>Following%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="262" h="183" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="82"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="262" h="49" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="82">
+          <controlProperties>
+            <color>10470904</color>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="56" y="15" w="-1" h="-1" measuredW="123" measuredH="21" zOrder="3" locked="false" isInGroup="82">
+          <controlProperties>
+            <text>Braised%20Beef%20Brisket</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="15" y="81" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="82">
+          <controlProperties>
+            <icon>SearchIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="15" y="17" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="5" locked="false" isInGroup="82">
+          <controlProperties>
+            <icon>ListIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="56" y="47" w="-1" h="-1" measuredW="106" measuredH="21" zOrder="6" locked="false" isInGroup="82">
+          <controlProperties>
+            <text>Beef%20Bourguignon</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="56" y="79" w="96" h="21" measuredW="35" measuredH="21" zOrder="7" locked="false" isInGroup="82">
+          <controlProperties>
+            <text>Beef</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="56" y="111" w="82" h="21" measuredW="70" measuredH="21" zOrder="8" locked="false" isInGroup="82">
+          <controlProperties>
+            <text>Beef%20Stew</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="56" y="143" w="82" h="21" measuredW="79" measuredH="21" zOrder="9" locked="false" isInGroup="82">
+          <controlProperties>
+            <text>Beef%20Brisket</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="15" y="49" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="10" locked="false" isInGroup="82">
+          <controlProperties>
+            <icon>ListIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Icon" x="15" y="113" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="11" locked="false" isInGroup="82">
+          <controlProperties>
+            <icon>SearchIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Icon" x="15" y="145" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="12" locked="false" isInGroup="82">
+          <controlProperties>
+            <icon>SearchIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Component" x="1122" y="289" w="236" h="288" measuredW="236" measuredH="288" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#sidebar</src>
       </controlProperties>
     </control>
   </controls>
