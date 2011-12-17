@@ -12,10 +12,10 @@
       <controlProperties>
         <override controlID="0" x="0" y="0" w="1101" h="1757"/>
         <override controlID="1" x="72" y="151" w="959" h="1576"/>
-        <override controlID="1:1" x="33" y="1422" w="891" h="5"/>
         <override controlID="1:0" x="0" y="0" w="959" h="1576">
           <text>Home%2C%20Recipes%2C%20My%20Recipe%20Box%2C%20Import</text>
         </override>
+        <override controlID="1:1" x="33" y="1422" w="891" h="5"/>
         <src>./assets/symbols.bmml#page_container</src>
       </controlProperties>
     </control>
@@ -613,11 +613,11 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="102" controlTypeID="com.balsamiq.mockups::CallOut" x="869" y="348" w="-1" h="-1" measuredW="36" measuredH="39" zOrder="13" locked="false" isInGroup="-1"/>
-    <control controlID="103" controlTypeID="com.balsamiq.mockups::CallOut" x="1581" y="347" w="-1" h="-1" measuredW="36" measuredH="37" zOrder="14" locked="false" isInGroup="-1"/>
-    <control controlID="104" controlTypeID="com.balsamiq.mockups::CallOut" x="1638" y="346" w="194" h="81" measuredW="385" measuredH="39" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::CallOut" x="869" y="348" w="-1" h="-1" measuredW="37" measuredH="40" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::CallOut" x="1581" y="347" w="-1" h="-1" measuredW="37" measuredH="39" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::CallOut" x="1638" y="346" w="194" h="151" measuredW="1148" measuredH="43" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>These%20will%20have%20arrows.%20You%20can%20sort%20ascending%20or%20descending.</text>
+        <text>These%20will%20have%20arrows%20to%20indicate%20the%20sort%20order%20%28ascending/descending%29.%20The%20options%20are%20mutually%20exclusive.%20The%20background%20color%20changes%20to%20indicate%20which%20one%20is%20active.%20Best%20Match%20is%20the%20default.</text>
       </controlProperties>
     </control>
     <control controlID="105" controlTypeID="com.balsamiq.mockups::CallOut" x="583" y="294" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="16" locked="false" isInGroup="-1">
@@ -625,17 +625,17 @@
         <text>2</text>
       </controlProperties>
     </control>
-    <control controlID="106" controlTypeID="com.balsamiq.mockups::CallOut" x="1581" y="497" w="-1" h="-1" measuredW="39" measuredH="40" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::CallOut" x="1581" y="537" w="-1" h="-1" measuredW="39" measuredH="43" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <text>2</text>
       </controlProperties>
     </control>
-    <control controlID="107" controlTypeID="com.balsamiq.mockups::CallOut" x="1638" y="497" w="194" h="139" measuredW="1054" measuredH="39" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::CallOut" x="1638" y="537" w="194" h="58" measuredW="351" measuredH="39" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>This%20will%20have%20autocomplete%20%28see%20autocomplete%20mockup%29.%20The%20options%20are%20mutually%20exclusive.%20The%20background%20color%20changes%20to%20indicate%20which%20one%20is%20active.%20Best%20Match%20is%20the%20default.</text>
+        <text>This%20will%20have%20autocomplete%20%28see%20autocomplete%20mockup%29.</text>
       </controlProperties>
     </control>
-    <control controlID="108" controlTypeID="com.balsamiq.mockups::CallOut" x="939" y="1512" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::CallOut" x="939" y="1512" w="-1" h="-1" measuredW="38" measuredH="37" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <text>3</text>
       </controlProperties>
@@ -645,7 +645,7 @@
         <text>3</text>
       </controlProperties>
     </control>
-    <control controlID="110" controlTypeID="com.balsamiq.mockups::CallOut" x="1638" y="1504" w="194" h="118" measuredW="956" measuredH="40" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::CallOut" x="1638" y="1504" w="194" h="118" measuredW="956" measuredH="37" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <text>For%20large%20amounts%20of%20results%2C%20do%20I%20want%20to%20do%20something%20like%20this%3F%20Google%20does%20not%20do%20this.%20Perhaps%2C%20users%20don%27t%20care%20about%20results%20beyond%20the%20first%20couple%20of%20pages.</text>
       </controlProperties>

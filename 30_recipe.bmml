@@ -27,10 +27,10 @@
       <controlProperties>
         <override controlID="0" x="0" y="0" w="1101" h="1817"/>
         <override controlID="1" x="72" y="157" w="959" h="1625"/>
-        <override controlID="1:1" x="31" y="1356" w="891" h="5"/>
         <override controlID="1:0" x="0" y="0" w="959" h="1625">
           <text>Home%2C%20Recipes%2C%20My%20Recipe%20Box%2C%20Import</text>
         </override>
+        <override controlID="1:1" x="31" y="1356" w="891" h="5"/>
         <src>./assets/symbols.bmml#page_container</src>
       </controlProperties>
     </control>
@@ -423,17 +423,17 @@
         <leftArrow>false</leftArrow>
       </controlProperties>
     </control>
-    <control controlID="105" controlTypeID="com.balsamiq.mockups::CallOut" x="1005" y="257" w="-1" h="-1" measuredW="36" measuredH="40" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::CallOut" x="1005" y="257" w="-1" h="-1" measuredW="37" measuredH="37" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
     </control>
-    <control controlID="106" controlTypeID="com.balsamiq.mockups::CallOut" x="1561" y="111" w="-1" h="-1" measuredW="36" measuredH="40" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::CallOut" x="1561" y="111" w="-1" h="-1" measuredW="37" measuredH="40" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
     </control>
-    <control controlID="121" controlTypeID="com.balsamiq.mockups::CallOut" x="1619" y="809" w="207" h="121" measuredW="861" measuredH="39" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::CallOut" x="1619" y="809" w="207" h="121" measuredW="861" measuredH="43" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <text>When%20you%20hover%20on%20these%20stars%2C%20this%20link%20appears%20below%20them.%20Clicking%20it%20causes%20the%20review%20form%20to%20appear%20and%20focus%20to%20enter%20the%20form%27s%20first%20input.</text>
       </controlProperties>
@@ -443,7 +443,7 @@
         <text>What%20happens%20with%20this%20%22add%22%20button%20when%20the%20recipe%20is%20already%20in%20the%20user%27s%20recipe%20box%3F%20How%20can%20I%20indicate%20to%20the%20user%20that%20this%20recipe%20is%20already%20in%20their%20recipe%20box%3F</text>
       </controlProperties>
     </control>
-    <control controlID="123" controlTypeID="com.balsamiq.mockups::CallOut" x="1619" y="339" w="284" h="86" measuredW="956" measuredH="43" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::CallOut" x="1619" y="339" w="284" h="86" measuredW="956" measuredH="39" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Tooltips%20-%20every%20button%20should%20have%20one%20and%20they%20should%20all%20show%20up%20to%20the%20right%20of%20the%20button.%20Should%20they%20show%20up%20immediately%3F%20Or%20on%20a%20hover%20intent%20kind%20of%20event%3F</text>
       </controlProperties>
@@ -515,12 +515,12 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="128" controlTypeID="com.balsamiq.mockups::CallOut" x="1619" y="677" w="241" h="76" measuredW="644" measuredH="43" zOrder="33" locked="false" isInGroup="-1">
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::CallOut" x="1619" y="677" w="241" h="76" measuredW="644" measuredH="39" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <text>If%20the%20recipe%20is%20already%20in%20their%20recipe%20box%2C%20this%20delete%20button%20should%20be%20visible%20and%20right%20below%20the%20add%20button.</text>
       </controlProperties>
     </control>
-    <control controlID="129" controlTypeID="com.balsamiq.mockups::CallOut" x="1005" y="373" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::CallOut" x="1005" y="373" w="-1" h="-1" measuredW="39" measuredH="43" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
         <text>2</text>
       </controlProperties>
@@ -535,6 +535,13 @@
         <markup>true</markup>
         <text>Remove%20this%20from%20your%20recipe%20box</text>
         <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Button" x="1056" y="418" w="30" h="31" measuredW="40" measuredH="27" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PencilIcon%7Cxsmall</icon>
+        <markup>true</markup>
+        <text/>
       </controlProperties>
     </control>
   </controls>
