@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1816" measuredH="1171" mockupW="1449" mockupH="1146">
+<mockup version="1.0" skin="sketch" measuredW="1763" measuredH="1171" mockupW="1396" mockupH="1146">
   <controls>
     <control controlID="25" controlTypeID="com.balsamiq.mockups::Component" x="450" y="114" w="948" h="88" measuredW="948" measuredH="88" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
@@ -221,7 +221,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="62" controlTypeID="com.balsamiq.mockups::Tooltip" x="1598" y="857" w="165" h="79" measuredW="163" measuredH="79" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Tooltip" x="1598" y="881" w="165" h="79" measuredW="163" measuredH="79" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
         <text>Remove%20this%20from%20your%20recipe%20box</text>
@@ -237,26 +237,24 @@
         <leftArrow>false</leftArrow>
       </controlProperties>
     </control>
-    <control controlID="65" controlTypeID="com.balsamiq.mockups::CallOut" x="920" y="624" w="40" h="41" measuredW="36" measuredH="39" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::CallOut" x="920" y="624" w="40" h="41" measuredW="36" measuredH="39" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
     </control>
-    <control controlID="66" controlTypeID="com.balsamiq.mockups::CallOut" x="1540" y="801" w="40" h="41" measuredW="36" measuredH="37" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::CallOut" x="1540" y="801" w="40" h="41" measuredW="36" measuredH="40" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
     </control>
-    <control controlID="67" controlTypeID="com.balsamiq.mockups::SubTitle" x="1598" y="804" w="-1" h="-1" measuredW="218" measuredH="33" zOrder="22" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>2848996</color>
-        <markup>true</markup>
-        <text>Delete%20button%20tooltip</text>
-      </controlProperties>
-    </control>
-    <control controlID="68" controlTypeID="com.balsamiq.mockups::Component" x="1122" y="289" w="236" h="288" measuredW="236" measuredH="288" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Component" x="1122" y="289" w="236" h="288" measuredW="236" measuredH="288" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/symbols.bmml#sidebar</src>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::CallOut" x="1598" y="800" w="165" h="66" measuredW="244" measuredH="37" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Delete%20button%20tooltip%20%28on%20hover%20intent%29</text>
       </controlProperties>
     </control>
   </controls>
