@@ -190,7 +190,7 @@
         <text>See%20More%20%3E</text>
       </controlProperties>
     </control>
-    <control controlID="79" controlTypeID="com.balsamiq.mockups::CallOut" x="1543" y="230" w="245" h="178" measuredW="1719" measuredH="43" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::CallOut" x="1543" y="230" w="245" h="178" measuredW="1720" measuredH="39" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <text>The%20goal%20is%20to%20differentiate%20between%20recipes%20that%20are%20in%20your%20recipe%20box%20and%20search%20suggestions%20by%20using%20different%20icons.%20Selecting%20a%20recipe%20that%20is%20in%20your%20recipe%20box%20%28such%20as%20the%20top%20two%20results%20here%29%20would%20take%20you%20to%20that%20page.%20Selecting%20a%20search%20suggestion%2C%20takes%20you%20to%20the%20search%20sesults%20page.%20</text>
       </controlProperties>
@@ -268,6 +268,17 @@
     <control controlID="83" controlTypeID="com.balsamiq.mockups::Component" x="1122" y="289" w="236" h="288" measuredW="236" measuredH="288" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/symbols.bmml#sidebar</src>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Arrow" x="1275" y="129" w="262" h="57" measuredW="150" measuredH="100" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::CallOut" x="1543" y="103" w="245" h="83" measuredW="558" measuredH="39" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>This%20expands%20when%20it%20gets%20focus.%20Basically%2C%20it%20does%20what%20Apple%20and%20Twitter%27s%20search%20boxes%20do.</text>
       </controlProperties>
     </control>
   </controls>
